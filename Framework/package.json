@@ -1,0 +1,22 @@
+{
+  "name": "0injsframework",
+  "version": "1.0.0",
+  "description": "A lightweight JavaScript framework using TypeScript",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    "import": "./dist/index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "javascript",
+    "typescript",
+    "framework",
+    "frontend"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
