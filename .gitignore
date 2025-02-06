@@ -9,7 +9,8 @@
 /src/assets/journy/
 
 # Node
-/node_modules
+/Framework/node_modules
+/TestApp/node_modules
 npm-debug.log
 yarn-error.log
 
