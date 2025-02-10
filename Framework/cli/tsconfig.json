@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "Node16",
+    "strict": true,
+    "outDir": "./dist",
+    "moduleResolution": "Node16"
+  }
+}
